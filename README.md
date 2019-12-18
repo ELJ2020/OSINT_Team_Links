@@ -289,6 +289,7 @@ Slack Team: https://openosint.slack.com
 [Craiglist](http://losangeles.craigslist.org/)<br>
 [Dice](http://www.dice.com/)<br>
 [Eluta (Canada)](http://www.eluta.ca/)<br>
+[Europe Language Jobs](https://www.europelanguagejobs.com/candidates/register-in-europe?utm_source=Ema&utm_medium=Webiste&utm_campaign=Github%7CEma)<br>
 [Eurojobs](https://www.eurojobs.com/)<br>
 [Fish4Jobs](http://www.fish4.co.uk/)<br>
 [Glassdoor](https://www.glassdoor.com/)<br>
